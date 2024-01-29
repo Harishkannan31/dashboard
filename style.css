@@ -1,0 +1,41 @@
+/* color code for theme #FFC2C2 */
+.logo{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 60px;
+    
+}
+.Dashboard{
+    position: relative;
+    left: 40px;
+    
+}
+.searchbar{
+    position: relative;
+    left: 100px;
+    width: 350px;
+    border: 0px white;
+    border-radius: 20px;
+}
+.profile_icon{
+    position: relative;
+    left: 80px;
+}
+.user_dropdown{
+    height: 30px;
+    width: 80px;
+    border: 1px white ;
+    background-color: rgb(233, 232, 231);
+    border-radius: 5px;
+}
+.vertical_navbar{
+    margin-left: 100px;
+}
+.ver_nav>p{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+
